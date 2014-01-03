@@ -1,0 +1,13 @@
+D:\Documents and Settings\GaryNg\Desktop\WordSumSeacher\WordSumSeacher\bin\Debug\WordSumSeacher.exe
+D:\Documents and Settings\GaryNg\Desktop\WordSumSeacher\WordSumSeacher\bin\Debug\WordSumSeacher.pdb
+D:\Documents and Settings\GaryNg\Desktop\WordSumSeacher\WordSumSeacher\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\GaryNg\Desktop\WordSumSeacher\WordSumSeacher\obj\x86\Debug\MainWindow.baml
+D:\Documents and Settings\GaryNg\Desktop\WordSumSeacher\WordSumSeacher\obj\x86\Debug\MainWindow.g.cs
+D:\Documents and Settings\GaryNg\Desktop\WordSumSeacher\WordSumSeacher\obj\x86\Debug\App.g.cs
+D:\Documents and Settings\GaryNg\Desktop\WordSumSeacher\WordSumSeacher\obj\x86\Debug\WordSumSeacher_MarkupCompile.cache
+D:\Documents and Settings\GaryNg\Desktop\WordSumSeacher\WordSumSeacher\obj\x86\Debug\WordSumSeacher.g.resources
+D:\Documents and Settings\GaryNg\Desktop\WordSumSeacher\WordSumSeacher\obj\x86\Debug\WordSumSeacher.Properties.Resources.resources
+D:\Documents and Settings\GaryNg\Desktop\WordSumSeacher\WordSumSeacher\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\GaryNg\Desktop\WordSumSeacher\WordSumSeacher\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents and Settings\GaryNg\Desktop\WordSumSeacher\WordSumSeacher\obj\x86\Debug\WordSumSeacher.exe
+D:\Documents and Settings\GaryNg\Desktop\WordSumSeacher\WordSumSeacher\obj\x86\Debug\WordSumSeacher.pdb

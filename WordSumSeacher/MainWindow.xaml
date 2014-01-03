@@ -1,0 +1,24 @@
+﻿<Window x:Class="WordSumSeacher.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Word Sum Searcher - By GaryNg" 
+		Height="350" 
+		Width="525"
+		FontFamily="Segoe UI"
+		Loaded="Window_Loaded"
+		>
+    <Grid>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="Auto"></RowDefinition>
+			<RowDefinition Height="*"></RowDefinition>
+			<RowDefinition Height="Auto"></RowDefinition>
+		</Grid.RowDefinitions>
+		<DockPanel Grid.Row="0" LastChildFill="True" Margin="3">
+			<TextBlock Margin="3" Padding="3" FontWeight="Normal" TextAlignment="Center">Sum : </TextBlock>
+			<Button IsDefault="True" Click="btnSearch_Click" Name="btnSearch" Padding="3" Margin="3" DockPanel.Dock="Right">Search</Button>
+			<TextBox TextAlignment="Center" Margin="3" Name="txtSum"></TextBox>
+		</DockPanel>
+		<ListBox Name="lbResult" Grid.Row="1" Padding="3" Margin="3"></ListBox>
+		<TextBlock Name="tbStatus" Grid.Row="2" Background="AliceBlue" Padding="3"></TextBlock>
+	</Grid>
+</Window>
